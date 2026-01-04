@@ -82,10 +82,4 @@ Seamlessly transform the particle cloud into various forms:
 
 ---
 
-## 📸 Screenshots
-
-*(Add your awesome screenshot here!)*
-
----
-
 Released with ❤️ by **Ashwin Harish**.
