@@ -51,8 +51,8 @@ Seamlessly transform the particle cloud into various forms:
 
 1.  **Clone the Repo**:
     ```bash
-    git clone https://github.com/ash29032006/hand-particle-system.git
-    cd hand-particle-system
+    git clone https://github.com/ash29032006/hand-particle-controller-system.git
+    cd hand-particle-controller-system
     ```
 
 2.  **Run a Local Server**:
