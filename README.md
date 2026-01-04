@@ -1,4 +1,4 @@
-# 🌌 Hand-Controlled 3D Particle Universe ✨
+# 🌌 Hand Particle Controller System ✨
 
 > **"Experience the power of a supernova in the palm of your hand."**
 
