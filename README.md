@@ -1,4 +1,4 @@
-#  Hand Particle Controller System ✨
+#  Hand Particle Controller System 
 
 > **"Experience the power of a supernova in the palm of your hand."**
 
